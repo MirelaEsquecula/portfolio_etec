@@ -8,11 +8,11 @@
 
 
 :root {
-    --fundo-principal: #0a0a0c;     /* Preto profundo e moderno */
-    --fundo-card: #121216;          /* Preto levemente mais claro para os cards */
-    --roxo-principal: #8a2be2;      /* Roxo vibrante */
-    --roxo-hover: #9370db;          /* Roxo claro para hover */
-    --roxo-brilho: #a855f7;         /* Roxo neon para textos de destaque */
+    --fundo-principal: #0a0a0c;    
+    --fundo-card: #121216;         
+    --roxo-principal: #8a2be2;     
+    --roxo-hover: #9370db;         
+    --roxo-brilho: #a855f7;        
 }
 
 
